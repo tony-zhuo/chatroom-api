@@ -36,7 +36,7 @@
     "mongoose": "^5.8.3",
     "socket.io": "^2.3.0",
     "supertest": "^4.0.2",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "directories": {
     "test": "test"
